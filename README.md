@@ -44,14 +44,19 @@ Frontend Developer | React.js • Next.js • TypeScript
 
 <p>
   <img src="https://skillicons.dev/icons?i=redux" />
-</p>
+  
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-- Redux Toolkit
-- Context API
-- RESTful APIs
-- JWT Authentication
-- Cookie-based Session Handling
-- i18n Localization
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react" />
+
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens" />
+
+  <img src="https://img.shields.io/badge/Cookie_Based_Session-FF9800?style=for-the-badge&logo=cookiecutter&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/i18n_Localization-2196F3?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
 ---
 
