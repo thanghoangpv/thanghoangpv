@@ -43,8 +43,6 @@ Frontend Developer | React.js • Next.js • TypeScript
 ## 🧠 State Management & API
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" />
-  
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react" />
