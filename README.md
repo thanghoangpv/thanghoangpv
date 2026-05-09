@@ -65,11 +65,11 @@ Frontend Developer | React.js • Next.js • TypeScript
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/thanghoangpv">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/thang-hoang-3984a23b4/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
