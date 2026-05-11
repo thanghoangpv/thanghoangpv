@@ -1,28 +1,51 @@
-<h1 align="center">Hi 👋, I'm Hoang Pham Viet Thang</h1>
+<!-- HEADER -->
+<h1 align="center">
+  Hi 👋, I'm Hoang Pham Viet Thang
+</h1>
 
 <h3 align="center">
-Frontend Developer | React.js • Next.js • TypeScript
+  🚀 Frontend Developer | React.js • Next.js • TypeScript
 </h3>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Creating+Smooth+User+Experiences"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=thanghoangpv&label=Profile%20views&color=0e75b6&style=flat"
     alt="profile views"
   />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=header"/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Frontend Developer passionate about building scalable and user-friendly web applications using modern technologies.
+<img align="right" alt="coding" width="320"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-✨ I enjoy creating responsive interfaces, reusable UI components, authentication systems, and scalable frontend architectures.
+💻 Passionate Frontend Developer focused on building scalable and user-friendly web applications.
 
-- 🔭 Currently working on: **E-commerce Web Applications**
-- 🌱 Learning more about: **Frontend Architecture & Performance**
-- 💬 Ask me about: **React.js, Next.js, Redux Toolkit, Authentication**
-- ⚡ Fun fact: I love turning UI designs into smooth user experiences
+✨ I enjoy creating:
+- Responsive UI/UX
+- Reusable Components
+- Authentication Systems
+- Scalable Frontend Architectures
+- Internationalized Applications
+
+### 🌱 Currently
+- 🔭 Working on: **E-commerce Web Applications**
+- 🌱 Learning: **Frontend Architecture & Performance**
+- 💬 Ask me about: **React.js, Next.js, Redux Toolkit**
+- ⚡ Fun fact: *I love turning UI designs into smooth experiences*
 
 ---
 
@@ -44,23 +67,39 @@ Frontend Developer | React.js • Next.js • TypeScript
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react" />
-
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
+<p>
   <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens" />
-
   <img src="https://img.shields.io/badge/Cookie_Based_Session-FF9800?style=for-the-badge&logo=cookiecutter&logoColor=white" />
-
   <img src="https://img.shields.io/badge/i18n_Localization-2196F3?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=thanghoangpv&show_icons=true&theme=tokyonight"/>
+    
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanghoangpv&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thanghoangpv&theme=tokyonight"
+  />
 </p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:thanghpv23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -78,10 +117,20 @@ Frontend Developer | React.js • Next.js • TypeScript
 
 # ✨ Quote
 
-> "Code is not just about functionality — it's about creating experiences."
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  />
+</p>
 
 ---
 
 <h3 align="center">
-Thanks for visiting my profile ❤️
+  💙 Thanks for visiting my profile 💙
 </h3>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"
+  />
+</p>
