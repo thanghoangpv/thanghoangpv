@@ -79,24 +79,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=thanghoangpv&show_icons=true&theme=tokyonight"/>
-    
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanghoangpv&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thanghoangpv&theme=tokyonight"
-  />
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
