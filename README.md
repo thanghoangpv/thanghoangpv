@@ -22,7 +22,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=header"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&height=220&text=Hoang%20Pham%20Viet%20Thang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:4B0082,100:90EE90"
+  />
 </p>
 
 ---
@@ -101,7 +103,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=0:4B0082,100:90EE90"
   />
 </p>
 
