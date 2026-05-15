@@ -102,9 +102,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 # ✨ Quote
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=120&section=footer&color=0:4B0082,100:90EE90"
-  />
+  <i>"Turning ideas into interactive experiences."</i>
 </p>
 
 ---
@@ -115,6 +113,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:240046,50:3C096C,100:A7F3D0&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:240046,50:3C096C,100:A7F3D0&section=footer"
   />
 </p>
